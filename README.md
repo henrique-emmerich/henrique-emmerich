@@ -1,5 +1,5 @@
 <div align="center">
-## Olá, sou Henrique P. Emmerich !!!
+Olá, sou Henrique P. Emmerich !!!
 </div>
 
 
@@ -10,7 +10,7 @@
     --- Principais vendors: Cisco, Huawei, Juniper, Datacom <br><br>
    - Futuro Bacharel em Analises de Sistemas.<br>
 </div>
-
+<br>
 
 <div align="center">
   <a href="https://github.com/henrique-emmerich">
