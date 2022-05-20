@@ -1,4 +1,17 @@
-## Olá, sou Henrique P. Emmerich, Analista de Redes, cursando Sistemas de Informação.
+<div align="center">
+## Olá, sou Henrique P. Emmerich !!!
+</div>
+
+
+<div>
+   - Analista de Redes Pleno<br>
+    --- Roteamento estático e dinâmico (OSPF, BGP, EBGP)<br>
+    --- Virtualização ProxMox<br>
+    --- Principais vendors: Cisco, Huawei, Juniper, Datacom <br><br>
+   - Futuro Bacharel em Analises de Sistemas.<br>
+</div>
+
+
 <div align="center">
   <a href="https://github.com/henrique-emmerich">
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=henrique-emmerich&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
