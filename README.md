@@ -1,4 +1,4 @@
-## Oiii eu sou Henrique P. Emmerich, Analista de Redes, entusiasta de
+## Olá, sou Henrique P. Emmerich, Analista de Redes, cursando Sistemas de Informação.
 <div align="center">
   <a href="https://github.com/henrique-emmerich">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-emmerich&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
