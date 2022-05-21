@@ -1,7 +1,8 @@
-<div align="center">
+<div align="center" fontsize="50">
 Olá, sou Henrique P. Emmerich !!!
 </div>
 
+##
 
 <div>
    - Analista de Redes Pleno<br>
